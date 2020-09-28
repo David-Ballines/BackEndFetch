@@ -1,5 +1,3 @@
-# BackEndFetch
-
 # Prerequisites
 1. Install Eclipse for Java EE development
     * Copy and paste the following link to download Eclipse Neon3 IDE https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/neon/3/eclipse-jee-neon-3-win32-x86_64.zip
