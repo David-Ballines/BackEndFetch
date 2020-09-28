@@ -18,3 +18,4 @@ In the "servers" window right-click on the Tomcat server and select run. This al
 # Testing the web service
 The web service I created takes HTTP GET requests and returns the desired output depending on the given Path. There are three functions that I created, two to handle either one version input or zero version inputs, they ask the user to input the correct amount of versions. The third function, getVers, takes the two versions given to it and finds out the hierarchy of the versions depending on the given criteria.
 Use the Path "http://localhost:8080/hierarchy/test/check/{version 1}/{version 2}" insde your desired web browser, and replace "version 1" and "version 2" with the desired input to test the code.
+The main code can be seen inside the src folder under main. The file is called ChechVersion.java. The full path is as follows: hierarchy/src/main/java/com/fetch/hierarchy/
